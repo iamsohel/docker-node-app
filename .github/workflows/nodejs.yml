@@ -32,4 +32,4 @@ jobs:
         docker build . -t dockersrana/node-docker:lastest
         echo 'pushing images'
         docker push dockersrana/node-docker
-        echo 'DOne!'
+        echo 'Done!'
